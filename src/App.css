@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(100, 99, 99);
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 15%;
+}
+.App{
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  padding: 10px;
+}
+.App input{
+  width: 95%;
+  padding: 8px;
+  border-radius: 5px;
+  border-style: none;
+  outline: none;
+}
+.App input:hover{
+  background-color: rgb(236, 223, 149);
+}
+
